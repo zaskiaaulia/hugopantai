@@ -1,0 +1,99 @@
+[
+    {
+        "id": 0,
+        "name": "Slancar",
+        "image": "images/slancar.png",
+        "url": "#",
+        "items": [
+            {
+                "name": "Meluncur di atas ombak",
+                "url": "#"
+            },
+            {
+                "name": "menikmati kebebasan pantai",
+                "url": "#"
+            }
+           
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Rastaurant",
+        "image": "images/rastaurant.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Restoran tepi pantai",
+                "url": "#"
+            },
+            {
+                "name": "cita rasa dan panorama",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Penginapan",
+        "image": "images/penginapan.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Penginapan tepi pantai",
+                "url": "#"
+            },
+            {
+                "name": "relaksasi sempurna",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Banana Boat",
+        "image": "images/banana-boat-copy.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Petualangan seru di banana boat",
+                "url": "#"
+            },
+            {
+                "name": "merasakan keseruan pantai",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "mobil atv",
+        "image": "images/mobilatvjpg.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Petualangan dengan mobil ATV",
+                "url": "#"
+            },
+            {
+                "name": "seru dan penuh aksi!",
+                "url": "#"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "perahu jet",
+        "image": "images/perahujet.jpg",
+        "url": "#",
+        "items": [
+            {
+                "name": "Melaju kencang dengan perahu jet",
+                "url": "#"
+            },
+            {
+                "name": "di atas gelombang pantai",
+                "url": "#"
+            }
+        ]
+    }
+]
